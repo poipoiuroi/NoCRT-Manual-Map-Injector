@@ -13,6 +13,4 @@
 #include "fix.h"
 #include "api.h"
 
-#pragma comment(lib, "ucrt.lib")
-
 #endif
